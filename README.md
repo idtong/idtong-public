@@ -21,3 +21,17 @@
         1. sadfsadf
         2. adsfasdf
         3. adfasdf
+```
+<!DOCTYPE html>
+<html>
+	<head>
+	<title>python</title>
+	</head>
+	<body>
+	제목 : {{article.title}}<br/>
+	저자 : {{article.name}}<br/>
+	내용 : {{article.contents}}<br/>
+	</body>
+	
+</html>
+```
