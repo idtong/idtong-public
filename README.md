@@ -8,3 +8,10 @@
  **강조**
  _test_
  _**test**_
+
+`inline code`
+
+1. sadf
+2. dsafasdf
+    1).sadf
+    2).sadfasdf
