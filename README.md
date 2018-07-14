@@ -22,7 +22,7 @@
         2. adsfasdf
         3. adfasdf
 > jstl 예제...
-```
+```html
 <!DOCTYPE html>
 <html>
 	<head>
